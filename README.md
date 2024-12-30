@@ -5,7 +5,7 @@
 
 - 🌱 I’m working on improving my skills in **Machine Learning** with a focus currently on **Network Analysis**, **Kubernetes** and **Rust**.
 
-- 👨‍💻 Do check out my past projects [here](https://github.com/Rikhil-6/project-main)
+- 👨‍💻 I've experimented on a ton of projects - feel free to check them out [here!](https://github.com/Rikhil-6/project-main)
 
 - 📫 You can reach me at **rikhilsingh13@gmail.com**
 
