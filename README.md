@@ -3,7 +3,7 @@
 <h1 align="center">I'm Rikhil Singh</h1>
 <h3 align="center">A Data Science Student in the National University of Singapore (NUS) eager to learn more about Machine Learning!</h3>
 
-- 🌱 I’m working on improving my skills in **Machine Learning** with a focus currently on **Network Analysis**, **Kubernetes** and **Rust**.
+- 🌱 I’m working on improving my skills in **Machine Learning** with a focus currently on **Network Analysis**, **Natural Language Processing** and **Competitive Neural Networks**.
 
 - 👨‍💻 I've experimented on a ton of projects - feel free to check them out [here!](https://github.com/Rikhil-6/project-main)
 
