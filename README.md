@@ -71,5 +71,5 @@
 - 🔭 I’m currently working on projects involving **integrations with Backend & Frontend Computing**.
 - 💡 Interested in exploring more about **MLOps** and **the incorporation of AI with daily tasks**.
 
-![Rikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rikhil-6&show_icons=true&theme=radical)
+![Rikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rikhil-6&show_icons=true&hide=prs,contribs&theme=transparent)
 
