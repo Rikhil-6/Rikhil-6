@@ -1,4 +1,4 @@
-<img width="1945" height="2500" alt="image" src="https://github.com/user-attachments/assets/cb36cadf-8d92-46ae-8c07-510b89716f85" />## Hello World!
+## Hello World!
 
 <h1 align="center">I'm Rikhil Singh</h1>
 <h3 align="center">A Data Science Student in the National University of Singapore (NUS) eager to learn more about Machine Learning!</h3>
